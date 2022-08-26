@@ -7,9 +7,9 @@
 
 ### Connect with me:
 
-Linkedin: https://www.linkedin.com/in/olabanji-amubieya-709a8583/
+[Linkedin](https://www.linkedin.com/in/olabanji-amubieya-709a8583/)
 
-Kaggle: https://www.kaggle.com/olabanjiamubieya
+[Kaggle](https://www.kaggle.com/olabanjiamubieya)
 
 ### Languages and Tools:
 

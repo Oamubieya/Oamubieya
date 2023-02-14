@@ -1,9 +1,6 @@
-# Hi there, I'm Olabanji 👋 
+# Hi there, I'm Olabanji
 
 ## I'm an aspiring data analyst
-
-- 🌱 I’m currently learning python 
-- 🥅 2022 Goals: Build out my portfolio
 
 ### Connect with me:
 
@@ -14,8 +11,6 @@
 ### Languages and Tools:
 
 SQL
-
-R
 
 Python
 

@@ -8,6 +8,8 @@
 
 [Kaggle](https://www.kaggle.com/olabanjiamubieya)
 
+[Tableau](https://public.tableau.com/app/profile/olabanji.amubieya)
+
 ### Languages and Tools:
 
 SQL
